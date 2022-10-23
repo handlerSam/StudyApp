@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="60dp" android:gravity="center_vertical"
+    android:background="@drawable/backgroundcolor2">
+
+    <TextView
+        android:id="@+id/titleTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="15dp"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:text="TextView" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/disorganizeList"
+        android:text="随机打乱\n抽背顺序"
+        android:textSize="15dp"
+        android:textColor="#ffffff"
+        android:layout_marginRight="20dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/changeSize"
+        android:text="调整抽背\n界面大小"
+        android:textSize="15dp"
+        android:textColor="#ffffff"
+        android:layout_marginRight="20dp"
+        />
+    <ImageView
+        android:id="@+id/helpImage"
+        android:layout_width="wrap_content"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        android:src="@drawable/help"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/addImage"
+        android:layout_width="wrap_content"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        android:src="@drawable/add"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp"
+        android:text="TextView" />
+
+</LinearLayout>

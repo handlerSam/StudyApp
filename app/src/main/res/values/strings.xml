@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">学！</string>
+    <string name="leftActivity">管理</string>
+    <string name="middleActivity">记忆</string>
+    <string name="rightActivity">沙盒</string>
+    <string name="tip1">要在这个世界上获得成功，就必须坚持到底.——伏尔泰</string>
+    <string name="tip2">读不在三更五鼓，功只怕一曝十寒。——郭沫若</string>
+    <string name="tip3">成大事不在于力量的大小，而在于能坚持多久。——约翰生</string>
+    <string name="tip4">只要不懈地奋斗，没有征服不了的东西。——塞内加</string>
+    <string name="tip5">生活就像海洋,只有意志坚强的人,才能到达彼岸.——马在思</string>
+    <string name="tip6">人生天地之间，若白驹过隙，忽然而已。——庄子 </string>
+    <string name="tip7">从不浪费时间的人，没有工夫抱怨时间不够。——杰弗逊</string>
+    <string name="tip8">时间给勤勉的人带来聪明和气力，给懒散的人只留下悔恨。</string>
+    <string name="tip9">谁对时间越吝啬，时间对谁就越慷慨。</string>
+    <string name="tip10">不要为已消尽之年华叹息，必须正视匆匆溜走的时光。</string>
+    <string name="help0">这是主界面，可以管理每日打卡和DDL。打卡有一定几率获得方块，完成DDL一定能获得方块。加油吧！</string>
+    <string name="help1">在输入背诵内容后，会在通知栏显示抽背界面，若不需要可以按X关掉；\n长按删除按钮可以全部删除 \n若抽背界面无法正常显示：\n 1.请查看设置中是否关闭了允许通知显示; \n 2.尝试点击“调整抽背界面大小”按钮改大抽背界面；\n 3.如果还是无法解决可以向开发者反馈。</string>
+    <string name="help2">你可以在这里摆放你获得的方块。 \n 各方块获得概率： \n 极品：5% \n TNT  钻石  黄金  绿宝石  红石  南瓜   南瓜灯 \n 稀有：15% \n 工作台 火炉 书架 箱子 岩浆 青金石  铁矿 \n 普通：30% \n 圆石 树木 红砖 梯子 树叶 煤炭 水 \n 低等：50% \n 草地 泥土 石头 沙子 木头 沙砾 \n 加油吧！</string>
+    <string name="version"> 句柄个人制作 \n 如有问题或建议欢迎加群或是私戳我反馈! \n 目前版本：V3.4</string>
+
+</resources>
